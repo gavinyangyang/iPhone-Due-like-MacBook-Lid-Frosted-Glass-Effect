@@ -1,4 +1,4 @@
-# iPhone-Due-like MacBook Lid Frosted Glass Effect
+# iPhone-Duo-like MacBook Lid Frosted Glass Effect
 
 FrostFold v0.8 is an experimental macOS menu-bar app that creates a progressive frosted-glass overlay with perspective compensation as a supported MacBook lid closes.
 
